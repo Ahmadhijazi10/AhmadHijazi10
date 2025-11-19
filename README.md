@@ -126,13 +126,17 @@ Flutter + Firebase real-time messaging and post feed app.
 ## 📊 GitHub Stats
 
 <div align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=AhmadHijazi10&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadHijazi10&theme=tokyonight&hide_border=true" width="45%" />
 
   <br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadHijazi10&theme=tokyo-night&hide_border=true" width="100%" />
+  <!-- Fixed Activity Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AhmadHijazi10&theme=tokyo-night&hide_border=true" width="100%" />
+
 </div>
+
 
 ---
 
