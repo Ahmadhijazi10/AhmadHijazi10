@@ -123,32 +123,38 @@ Flutter + Firebase real-time messaging and post feed app.
 
 ---
 
-# 📊 **GitHub Analytics**
+## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHijazi10&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadHijazi10&theme=tokyonight&hide_border=true" width="45%" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AhmadHijazi10&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadHijazi10&theme=tokyonight&hide_border=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadHijazi10&layout=compact&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadHijazi10&theme=tokyo-night&hide_border=true" width="100%" />
+  <br/>
 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadHijazi10&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
 ---
 
-# 🌐 **Let's Connect**
+## 🌐 Portfolio & Contact
 
-<div align="center">
+<p align="center">
+  <a href="https://portfolio-35e68.web.app/"><img src="https://img.shields.io/badge/Portfolio-Website-4EA1FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>  
+  <a href="mailto:ahmadhijazi20012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/ahmad-hijazi-826a3a283"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+  <a href="https://www.instagram.com/ahmed._.hijazi/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>  
+  <a href="https://www.facebook.com/hadi.hijazi3671xxx1234sahar/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
-<a href="https://www.linkedin.com/in/ahmad-hijazi-826a3a283"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://portfolio-35e68.web.app/"><img src="https://img.shields.io/badge/Portfolio-4EA1FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a> <a href="mailto:ahmadhijazi20012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.instagram.com/ahmed._.hijazi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="https://www.facebook.com/hadi.hijazi3671xxx1234sahar/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-
-<br>
 📞 **Phone:** +961 76 882 728  
 📧 **Email:** ahmadhijazi20012@gmail.com  
-🌍 **Based in:** Saida, Lebanon
-
-<img src="https://komarev.com/ghpvc/?username=AhmadHijazi10&style=flat-square&color=4EA1FF&label=PROFILE+VIEWS" />
-
-</div>
 
 ---
+
+## ✨ Fun Fact
+
+> “I turn coffee ☕ into clean, efficient code 💻.”
+
+---
+
+⭐ *If you like what you see, feel free to star my repos! I appreciate your support.*
