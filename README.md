@@ -5,9 +5,9 @@
 
 ### Passionate Developer Turning Ideas into Digital Solutions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hijazi/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmad-hijazi-826a3a283/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhijazi20012@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-green?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://portfolio-35e68.web.app/))
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
