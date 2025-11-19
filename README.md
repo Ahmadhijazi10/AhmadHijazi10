@@ -1,64 +1,99 @@
-# 👋 Hi, I'm **Ahmad Hijazi**
+<!-- Banner / Animated Header -->
 
-<img src="https://avatars.githubusercontent.com/u/000000?v=4" alt="profile banner" width="100%"/>
-
-> 💻 *Full‑Stack & Mobile Developer (Flutter / PHP / React / Node.js)*
-> 🎓 *Master’s Student – Technology & Science of Information Systems*
-> 🚀 *Passionate about building real, scalable apps with clean UI/UX*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4EA1FF&width=600&lines=Hi+I'm+Ahmad+Hijazi;Full-Stack+%26+Mobile+Developer;Flutter+%7C+PHP+%7C+Node.js+%7C+React;Problem+Solver+%7C+Clean+Code+Enthusiast" />
+</p>
 
 ---
 
-## 🌟 About Me
+# 💼 **About Me**
 
-I’m a developer who loves problem‑solving and building modern applications. From mobile apps to full-stack systems, I enjoy designing smooth interfaces, secure backends, and clean architectures.
+I'm a passionate **Full-Stack & Mobile Developer** who loves transforming problems into elegant, functional, and scalable solutions. With experience in **Flutter**, **PHP**, **React**, **Node.js**, and **Database Systems**, I enjoy building modern applications with clean UI/UX, optimized backends, and strong architecture.
 
----
-
-## 🛠 Tech Stack
-
-**Frontend:** Flutter · React.js · HTML/CSS · JavaScript
-**Backend:** Node.js · PHP · ASP.NET (C#) · Java
-**Databases:** MySQL · MongoDB · SQL Server
-**Tools:** Git · Firebase · REST APIs · OOP · ADO.NET
+🎓 **Master’s Student in Information Systems**
+🔥 Always learning • Always building • Always improving
 
 ---
 
-## 📌 Projects
+# 🛠 **Tech Stack**
 
-* **Client Portal App** – Flutter · PHP · MySQL · Zoho API
-* **Restaurant Ordering System** – PHP · MySQL
-* **E‑Commerce Website** – JS · Stripe Integration
-* **Real‑Time Social App** – Flutter · Firebase
-* **University Resource Hub** – React · Node · MongoDB
+### **Frontend**
 
----
+<img src="https://skillicons.dev/icons?i=flutter,react,html,css,js" />
 
-## 🌐 Connect With Me
+### **Backend**
 
-### 🔗 Social & Contact
+<img src="https://skillicons.dev/icons?i=nodejs,php,dotnet,java,firebase" />
 
-* **LinkedIn:** [linkedin.com/in/ahmad-hijazi-826a3a283](https://www.linkedin.com/in/ahmad-hijazi-826a3a283)
-* **Portfolio:** [portfolio-35e68.web.app](https://portfolio-35e68.web.app/)
-* **Email:** [ahmadhijazi20012@gmail.com](mailto:ahmadhijazi20012@gmail.com)
-* **Phone:** 76882728
-* **Instagram:** [instagram.com/ahmed._.hijazi](https://www.instagram.com/ahmed._.hijazi/?hl=en)
-* **Facebook:** [facebook.com/hadi.hijazi3671xxx1234sahar](https://www.facebook.com/hadi.hijazi3671xxx1234sahar/)
+### **Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+
+### **Tools & Concepts**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 ---
 
-## ✨ Cute Style Badges
+# 🚀 **Highlighted Projects**
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+### 📱 **Client Portal Mobile App**
+
+✔ Flutter · PHP · MySQL · Zoho API · FCM
+✔ Invoices, project tracking, support tickets, real-time sync
+
+### 🍽 **Restaurant Ordering System**
+
+✔ PHP · MySQL · Admin panel · Reservation system
+
+### 🛒 **E‑Commerce Website**
+
+✔ JS · Stripe Checkout · Responsive UI
+
+### 💬 **Real-Time Social App**
+
+✔ Flutter · Firebase · User profiles · Live chat
+
+### 🎓 **University Resource Hub**
+
+✔ React · Node.js · MongoDB
 
 ---
 
-## 🐱‍👤 Fun Touch
+# 🌐 **Connect With Me**
 
-> *"Coding is my superpower. Coffee is my sidekick."* ☕💙
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-hijazi-826a3a283"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://portfolio-35e68.web.app/"><img src="https://img.shields.io/badge/Portfolio-4EA1FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:ahmadhijazi20012@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/ahmed._.hijazi/?hl=en"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/hadi.hijazi3671xxx1234sahar/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
 
-✨ Thanks for visiting my profile! If you'd like to collaborate on any project, feel free to reach out.
+📞 **Contact:** 76882728
+✉️ **Email:** [ahmadhijazi20012@gmail.com](mailto:ahmadhijazi20012@gmail.com)
+
+---
+
+# 📊 **GitHub Stats & Activity**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmadHijazi10&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadHijazi10&theme=tokyonight&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadHijazi10&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+# ✨ **Fun Note**
+
+<p align="center">
+  <i>"Coding is my superpower. Coffee is my energy source." ☕💙</i>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
