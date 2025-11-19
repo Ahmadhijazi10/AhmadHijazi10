@@ -1,44 +1,64 @@
-<div align="center">
+# 👋 Hi, I'm **Ahmad Hijazi**
 
-<!-- Animated Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=70&lines=👋+Hello,+I'm+Ahmad+Hijazi!;🚀+Mobile+App+Developer;💻+Full-Stack+Developer;🌐+Web+Developer;💡+Problem+Solver" alt="Typing Animation" />
+<img src="https://avatars.githubusercontent.com/u/000000?v=4" alt="profile banner" width="100%"/>
 
-### Passionate Developer Turning Ideas into Digital Solutions
+> 💻 *Full‑Stack & Mobile Developer (Flutter / PHP / React / Node.js)*
+> 🎓 *Master’s Student – Technology & Science of Information Systems*
+> 🚀 *Passionate about building real, scalable apps with clean UI/UX*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ahmad-hijazi-826a3a283/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhijazi20012@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Me-green?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-link.com](https://portfolio-35e68.web.app/))
+---
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🌟 About Me
 
-</div>
+I’m a developer who loves problem‑solving and building modern applications. From mobile apps to full-stack systems, I enjoy designing smooth interfaces, secure backends, and clean architectures.
 
-## 🎯 About Me
+---
 
-<div align="center">
+## 🛠 Tech Stack
 
-<!-- Animated GIF/Image -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="300">
+**Frontend:** Flutter · React.js · HTML/CSS · JavaScript
+**Backend:** Node.js · PHP · ASP.NET (C#) · Java
+**Databases:** MySQL · MongoDB · SQL Server
+**Tools:** Git · Firebase · REST APIs · OOP · ADO.NET
 
-</div>
+---
 
-```javascript
-const ahmad = {
-  pronouns: "he" | "him",
-  education: {
-    bachelor: "Computer and Communication Engineering",
-    master: "Technology and Science of Information Systems (Current)"
-  },
-  code: ["Java", "JavaScript", "Dart", "C#", "Python", "PHP"],
-  technologies: {
-    mobile: ["Flutter", "Dart", "Firebase"],
-    frontend: ["React", "HTML/CSS", "JavaScript"],
-    backend: ["Node.js", "PHP", "ASP.NET", "Java"],
-    databases: ["MySQL", "SQL Server", "MongoDB"],
-    tools: ["Git", "REST APIs", "Firebase", "Stripe"]
-  },
-  passion: "Problem solving through innovative technology",
-  currentFocus: "Building scalable mobile & web applications",
-  funFact: "I turn coffee into clean, efficient code ☕ → 💻"
-};
+## 📌 Projects
+
+* **Client Portal App** – Flutter · PHP · MySQL · Zoho API
+* **Restaurant Ordering System** – PHP · MySQL
+* **E‑Commerce Website** – JS · Stripe Integration
+* **Real‑Time Social App** – Flutter · Firebase
+* **University Resource Hub** – React · Node · MongoDB
+
+---
+
+## 🌐 Connect With Me
+
+### 🔗 Social & Contact
+
+* **LinkedIn:** [linkedin.com/in/ahmad-hijazi-826a3a283](https://www.linkedin.com/in/ahmad-hijazi-826a3a283)
+* **Portfolio:** [portfolio-35e68.web.app](https://portfolio-35e68.web.app/)
+* **Email:** [ahmadhijazi20012@gmail.com](mailto:ahmadhijazi20012@gmail.com)
+* **Phone:** 76882728
+* **Instagram:** [instagram.com/ahmed._.hijazi](https://www.instagram.com/ahmed._.hijazi/?hl=en)
+* **Facebook:** [facebook.com/hadi.hijazi3671xxx1234sahar](https://www.facebook.com/hadi.hijazi3671xxx1234sahar/)
+
+---
+
+## ✨ Cute Style Badges
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+---
+
+## 🐱‍👤 Fun Touch
+
+> *"Coding is my superpower. Coffee is my sidekick."* ☕💙
+
+✨ Thanks for visiting my profile! If you'd like to collaborate on any project, feel free to reach out.
