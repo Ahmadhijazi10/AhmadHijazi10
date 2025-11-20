@@ -154,10 +154,4 @@ Flutter + Firebase real-time messaging and post feed app.
 
 ---
 
-## ✨ Fun Fact
-
-> “I turn coffee ☕ into clean, efficient code 💻.”
-
----
-
 ⭐ *If you like what you see, feel free to star my repos! I appreciate your support.*
